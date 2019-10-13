@@ -1,0 +1,19 @@
+/*
+    Reference: https://minecraft.gamepedia.com/Formatting_codes
+*/
+.mc-0 { color: #000000; }
+.mc-1 { color: #0000AA; }
+.mc-2 { color: #00AA00; }
+.mc-3 { color: #00AAAA; }
+.mc-4 { color: #AA0000; }
+.mc-5 { color: #AA00AA; }
+.mc-6 { color: #FFAA00; }
+.mc-7 { color: #AAAAAA; }
+.mc-8 { color: #555555; }
+.mc-9 { color: #5555FF; }
+.mc-a { color: #55FF55; }
+.mc-b { color: #55FFFF; }
+.mc-c { color: #FF5555; }
+.mc-d { color: #FF55FF; }
+.mc-e { color: #FFFF55; }
+.mc-f { color: #FFFFFF; }

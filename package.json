@@ -1,0 +1,15 @@
+{
+  "name": "webmc",
+  "version": "1.0.0",
+  "description": "Display Minecraft log in browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hadroncfy",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^2.4.4",
+    "ws": "^7.1.2"
+  }
+}
