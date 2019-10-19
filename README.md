@@ -7,9 +7,12 @@ Display the output of a process in browsers.
 ![Demo](demo.png)
 
 ## Original purpose
-This programme was originally used by me to display Minecraft log text when queueing in [2b2t](2b2t.org), so I could see my position in queue when away from computer, such as when going out for dinner.
+This programme was originally used by me to display Minecraft log text when queueing in [2b2t](//2b2t.org), so I could see my position in queue when away from computer, such as when going out for dinner.
 
 ## Usage
+The CLI program is piping the output of a local port to a websocket so that can be viewed in browsers. The local port could be created by [jmcl](https://github.com/Hadron67/jmcl), which is what I usually do. 
+
+### API
 ```js
 
 const createServer = require('webmc');
