@@ -1,6 +1,6 @@
 {
   "name": "webmc",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Display Minecraft log in browsers",
   "main": "index.js",
   "bin": "bin/webmc",
